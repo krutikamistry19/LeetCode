@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krutikamistry19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krutikamistry19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/krutikamistry19/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Union-Find
 |  |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krutikamistry19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
