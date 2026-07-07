@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/krutikamistry19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krutikamistry19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/krutikamistry19/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Union-Find
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
