@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/krutikamistry19/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/krutikamistry19/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/krutikamistry19/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/krutikamistry19/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krutikamistry19/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krutikamistry19/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/krutikamistry19/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krutikamistry19/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/krutikamistry19/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
