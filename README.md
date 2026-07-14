@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/krutikamistry19/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krutikamistry19/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/krutikamistry19/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krutikamistry19/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krutikamistry19/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/krutikamistry19/LeetCode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/krutikamistry19/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Depth-First Search
@@ -162,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/krutikamistry19/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/krutikamistry19/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/krutikamistry19/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krutikamistry19/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/krutikamistry19/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
