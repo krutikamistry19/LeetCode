@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/krutikamistry19/LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/krutikamistry19/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/krutikamistry19/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
