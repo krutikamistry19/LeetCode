@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krutikamistry19/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/krutikamistry19/LeetCode/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/krutikamistry19/LeetCode/tree/master/0118-pascals-triangle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krutikamistry19/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/krutikamistry19/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/krutikamistry19/LeetCode/tree/master/0128-longest-consecutive-sequence) |
