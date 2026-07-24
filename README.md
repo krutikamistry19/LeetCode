@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/krutikamistry19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/krutikamistry19/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krutikamistry19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/krutikamistry19/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krutikamistry19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/krutikamistry19/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/krutikamistry19/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krutikamistry19/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krutikamistry19/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
