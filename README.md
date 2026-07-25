@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/krutikamistry19/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3536-maximum-product-of-two-digits](https://github.com/krutikamistry19/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/krutikamistry19/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/krutikamistry19/LeetCode/tree/master/0148-sort-list) |
+| [3536-maximum-product-of-two-digits](https://github.com/krutikamistry19/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
 |  |
 | ------- |
