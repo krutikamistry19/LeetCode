@@ -112,22 +112,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/krutikamistry19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## String Matching
@@ -207,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
