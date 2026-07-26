@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/krutikamistry19/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/krutikamistry19/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/krutikamistry19/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/krutikamistry19/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/krutikamistry19/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/krutikamistry19/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/krutikamistry19/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Queue
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/krutikamistry19/LeetCode/tree/master/0257-binary-tree-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/krutikamistry19/LeetCode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
