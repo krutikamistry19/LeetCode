@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/krutikamistry19/LeetCode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krutikamistry19/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/krutikamistry19/LeetCode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krutikamistry19/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/krutikamistry19/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krutikamistry19/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krutikamistry19/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/krutikamistry19/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/krutikamistry19/LeetCode/tree/master/0877-stone-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krutikamistry19/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krutikamistry19/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/krutikamistry19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0877-stone-game](https://github.com/krutikamistry19/LeetCode/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krutikamistry19/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krutikamistry19/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krutikamistry19/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
