@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/krutikamistry19/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/krutikamistry19/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [3310-remove-methods-from-project](https://github.com/krutikamistry19/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/krutikamistry19/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [3310-remove-methods-from-project](https://github.com/krutikamistry19/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Counting Sort
 |  |
 | ------- |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krutikamistry19/LeetCode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/krutikamistry19/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
