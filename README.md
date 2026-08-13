@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krutikamistry19/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/krutikamistry19/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0047-permutations-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/krutikamistry19/LeetCode/tree/master/0118-pascals-triangle) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/krutikamistry19/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krutikamistry19/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krutikamistry19/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/krutikamistry19/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
