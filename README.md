@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krutikamistry19/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/krutikamistry19/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/krutikamistry19/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/krutikamistry19/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/krutikamistry19/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/krutikamistry19/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krutikamistry19/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/krutikamistry19/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/krutikamistry19/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/krutikamistry19/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/krutikamistry19/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krutikamistry19/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/krutikamistry19/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krutikamistry19/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/krutikamistry19/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krutikamistry19/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krutikamistry19/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/krutikamistry19/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
