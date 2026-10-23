@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krutikamistry19/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/krutikamistry19/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/krutikamistry19/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/krutikamistry19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krutikamistry19/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/krutikamistry19/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krutikamistry19/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/krutikamistry19/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krutikamistry19/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/krutikamistry19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krutikamistry19/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/krutikamistry19/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/krutikamistry19/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/krutikamistry19/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krutikamistry19/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/krutikamistry19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Tree
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/krutikamistry19/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/krutikamistry19/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krutikamistry19/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/krutikamistry19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krutikamistry19/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/krutikamistry19/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/krutikamistry19/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -455,4 +459,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/krutikamistry19/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/krutikamistry19/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/krutikamistry19/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/krutikamistry19/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
